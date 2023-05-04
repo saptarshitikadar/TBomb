@@ -1,6 +1,7 @@
 It is an modified version of the original Tbomb, which doesn't check for updates, most probably I'll add more commits in future.
+Actual work gets done with "adv-bomber.py" script.
 For now it doesn't check for updates, and fits my workflow.........
-
+Enjoy!!
 
 <h1 align="center">
   <br>
