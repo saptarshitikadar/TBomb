@@ -1,3 +1,7 @@
+It is an modified version of the original Tbomb, which doesn't check for updates, most probably I'll add more commits in future.
+For now it doesn't check for updates, and fits my workflow.........
+
+
 <h1 align="center">
   <br>
   <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
